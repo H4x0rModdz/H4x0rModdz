@@ -1,4 +1,4 @@
-## Oi eu sou o Lucas Lobo!
+## Olá! Meu nome é Lucas Lobo. Sou um dev C# que adora desenvolver scripts e projetos para o dia a dia. Siga meu perfil para receber informações sobre meus repositórios.
 <div align="center">
   <a href="https://github.com/H4x0rModdz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=H4x0rModdz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -11,8 +11,8 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Gif" height="150" style="border-radius:50px;" src="https://giphy.com/gifs/UxelvO2Zp05fZHGkXz">
 </div>
   
   ##
