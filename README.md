@@ -1,4 +1,4 @@
-## Olá, meu nome é Lucas Lobo. Sou um dev C# que adora desenvolver scripts e projetos para o dia a dia. Siga meu perfil para receber informações sobre meus repositórios.
+## Olá, meu nome é Lucas Lobo. Sou um dev C# que adora desenvolver scripts e projetos. Siga meu perfil para receber informações sobre meus repositórios.
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor">
 <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966">
