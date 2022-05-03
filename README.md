@@ -4,9 +4,12 @@
 <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966">
 </p>
 <div align="center">
+  <br/><img align="center" src="https://readme-typing-svg.herokuapp.com?size=24&color=20B0FF&lines=%7C+See+My+Github+Stats+%7C">
+  <br/>
   <a href="https://github.com/H4x0rModdz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=H4x0rModdz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4x0rModdz&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4x0rModdz&layout=compact&langs_count=7&theme=dracula"/><br/><br/>
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
