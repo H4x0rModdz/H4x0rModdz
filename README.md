@@ -4,15 +4,10 @@
 <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966">
 </p>
 <div align="center">
-  <br/><img align="center" src="https://readme-typing-svg.herokuapp.com?size=24&color=20B0FF&lines=%7C+See+My+Github+Stats+%7C">
   <br/>
-  <a href="https://github.com/H4x0rModdz">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=h4x0rmoddz&show_icons=true&locale=en&layout=compact" alt="h4x0rmoddz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h4x0rmoddz&show_icons=true&locale=en" alt="h4x0rmoddz" /></p>
-
+  
     Languages and Tools:
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
+<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
   </a>
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> 
   </a>
