@@ -2,8 +2,9 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXQzemc3cXZpY3A2bGdxajZibDRjZGNhZmtjcnZuaTZrdjhiOGIzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5lFS6uhbPaZhermXAf/giphy.gif">
   
-# Olá, meu nome é Lucas Lobo. 
-## Sou um Desenvolvedor C# que adora desenvolver scripts e projetos | Siga meu perfil para receber informações sobre meus repositórios.
+# Hello, my name is Lucas Lobo. 
+## I'm a C# Developer who loves creating scripts and projects. Follow my profile to receive updates about my repositories.
+
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor">
